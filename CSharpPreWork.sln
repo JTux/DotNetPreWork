@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Conditionals_Ternary", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_Integers", "08_Integers\08_Integers.csproj", "{7EE6CA23-7B3B-4C52-A8B6-2574D4C5A979}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Loops", "09_Loops\09_Loops.csproj", "{AE15765D-99FF-4C7B-AF6B-5E82E8DF573C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{7EE6CA23-7B3B-4C52-A8B6-2574D4C5A979}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EE6CA23-7B3B-4C52-A8B6-2574D4C5A979}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EE6CA23-7B3B-4C52-A8B6-2574D4C5A979}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE15765D-99FF-4C7B-AF6B-5E82E8DF573C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE15765D-99FF-4C7B-AF6B-5E82E8DF573C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE15765D-99FF-4C7B-AF6B-5E82E8DF573C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE15765D-99FF-4C7B-AF6B-5E82E8DF573C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
