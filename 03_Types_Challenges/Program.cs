@@ -38,7 +38,7 @@ namespace _03_Types_Challenges
 
             string prompt = "I was born in the year ";
             int birthYear = 1995;
-            Console.WriteLine(prompt + birthYear);
+            Console.WriteLine(prompt + birthYear + ".");
 
             Console.ReadLine();
         }

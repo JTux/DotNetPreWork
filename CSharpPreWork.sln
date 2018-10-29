@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Types", "03_Types\03_Typ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Types_Challenges", "03_Types_Challenges\03_Types_Challenges.csproj", "{402ED5D1-515C-4399-A0F8-7CD7F2E0BED1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Operators", "04_Operators\04_Operators.csproj", "{FA18D2DC-D8DD-4E82-AF69-65A5D6197970}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{402ED5D1-515C-4399-A0F8-7CD7F2E0BED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{402ED5D1-515C-4399-A0F8-7CD7F2E0BED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{402ED5D1-515C-4399-A0F8-7CD7F2E0BED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA18D2DC-D8DD-4E82-AF69-65A5D6197970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA18D2DC-D8DD-4E82-AF69-65A5D6197970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA18D2DC-D8DD-4E82-AF69-65A5D6197970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA18D2DC-D8DD-4E82-AF69-65A5D6197970}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
