@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Conditionals_If_Else", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Conditionals_Ternary", "07_Conditionals_Ternary\07_Conditionals_Ternary.csproj", "{CD52B920-B109-4C45-98BD-81DBC7DB6DB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_Integers", "08_Integers\08_Integers.csproj", "{7EE6CA23-7B3B-4C52-A8B6-2574D4C5A979}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{CD52B920-B109-4C45-98BD-81DBC7DB6DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD52B920-B109-4C45-98BD-81DBC7DB6DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD52B920-B109-4C45-98BD-81DBC7DB6DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EE6CA23-7B3B-4C52-A8B6-2574D4C5A979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EE6CA23-7B3B-4C52-A8B6-2574D4C5A979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EE6CA23-7B3B-4C52-A8B6-2574D4C5A979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EE6CA23-7B3B-4C52-A8B6-2574D4C5A979}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
